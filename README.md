@@ -40,11 +40,11 @@ Cuando abstraemos, usamos un subcontexto donde consideramos sólo algunas cualid
 
 ### Igualdad posible
 
-Si dos algos no son iguales, siempre existirá un contexto donde lo sean.
+Si dos algos no son iguales, siempre existirá un sub contexto donde lo sean.
 
-### Contexto imposible
+### Contexto posible
 
-Si dos algos no son iguales, no existe un super contexto donde lo sean.
+Si dos algos no son iguales, siempre existirá un super contexto donde lo sean.
 
 
 
