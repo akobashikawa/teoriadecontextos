@@ -47,7 +47,7 @@ Si dos algos no son iguales, siempre existirá un sub contexto donde lo sean.
 Si dos algos no iguales, siempre existirá un super contexto donde no lo sean.
 
 
-Más en [Logicadora](https://logicadora.akcademia.xyz)
+Más en [Logicadora](https://logicadora.akcstudio.com)
 
 
 
